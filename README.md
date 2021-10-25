@@ -42,3 +42,5 @@ issue,” 2016.
 [15] A. U. Zaman, “A comprehensive study of the environmental and economic benefits of resource recovery from global waste management systems,” Journal of cleaner production, vol. 124, pp. 41–50, 2016.
 
 [16] Y. Xu, J. Li, Q. Tan, A. L. Peters, and C. Yang, “Global status of recycling waste solar panels: A review,” Waste Management, vol. 75, pp. 450–458.
+
+*_This project was carried out under the supervision of Prof.Mallikarjuna Gowda, Associate Professor of the Department of Electronics and Telecommunications, BMS Institution of Technology and Management for the 5th Semester Project._ 
