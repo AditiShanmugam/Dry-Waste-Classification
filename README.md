@@ -10,6 +10,9 @@ The Original dataset is from Kaggle and can be found here:
 (https://www.kaggle.com/asdasdasasdas/garbage-classification)
 However, the dataset for this project was modified and can be found here: (https://drive.google.com/drive/folders/1l4AiJZfOXE8EvNZwE01zUZ0wx19Ykxfs?usp=sharing). 
 
+Paper: This work was published in 2021 at the 2nd International Conference on Intelligent Engineering and Management (ICIEM) 
+_paper link_: https://ieeexplore.ieee.org/document/9445289
+
 [1]D. Vethaak and H. A. Leslie, “Plastic debris is a human health
 issue,” 2016.
 
